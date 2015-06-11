@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://popcrush.com/" />
+<title>New Test</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">New Test</td></tr>
+</thead><tbody>
+<tr>
+	<td>readCSV</td>
+	<td>file://C:/Users/JD/Documents/TSM Support/taboolarollout.csv</td>
+	<td></td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>141</td>
+	<td>x</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>rock</td>
+	<td>rock1</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>classic-hits</td>
+	<td>rock2</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>indie-alternative</td>
+	<td>rock3</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>sports</td>
+	<td>rock4</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>new Array('urban','country','pop','movies-tv','edm','miscellaneous');</td>
+	<td></td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>urban</td>
+	<td>other1</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>country</td>
+	<td>other2</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>pop</td>
+	<td>other3</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>movies-tv</td>
+	<td>other4</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>edm</td>
+	<td>other5</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>miscellaneous</td>
+	<td>other6</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>news-talk</td>
+	<td>news1</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>&lt;section class=&quot;blogroll main_content_thumb_title_roll clearfix size4&quot;&gt;<br />&nbsp;&nbsp;&lt;h3&gt;Recommended For You&lt;/h3&gt;<br />&nbsp;&nbsp;&lt;div id=&quot;taboola-sc-below-article-thumbnails&quot;&gt;&lt;/div&gt;<br /> &lt;script type=&quot;text/javascript&quot;&gt;<br />&nbsp;&nbsp;&nbsp;window._taboola = window._taboola || [];<br />&nbsp;&nbsp;&nbsp;_taboola.push({<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mode: 'thumbnails-a',<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;container: 'taboola-sc-below-article-thumbnails',<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;placement: 'SC Below Article Thumbnails RSZ',<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;target_type: 'mix'<br />&nbsp;&nbsp;&nbsp;});<br /> &lt;/script&gt;<br />&lt;/section&gt;</td>
+	<td>RECOMMENDED</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>&lt;section class=&quot;blogroll main_content_thumb_title_roll clearfix size4&quot;&gt;&lt;h3&gt;Best of the Web&lt;/h3&gt;<br /> &lt;div id=&quot;zergnet-widget-13509&quot; style=&quot;text-align:center;margin-left:-7px;&quot;&gt;&lt;/div&gt;<br /> &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;(function() {<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var zergnet = document.createElement('script');<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zergnet.type = 'text/javascript'; zergnet.async = true;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zergnet.src = 'http://www.zergnet.com/zerg.js?id=13509';<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var znscr = document.getElementsByTagName('script')[0];<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;znscr.parentNode.insertBefore(zergnet, znscr);<br />&nbsp;&nbsp;&nbsp;&nbsp;})();<br /> &lt;/script&gt;<br /> &lt;/section&gt;<br /></td>
+	<td>tab1</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>&lt;section class=&quot;blogroll main_content_thumb_title_roll clearfix size4&quot;&gt;&lt;h3&gt;Best of the Web&lt;/h3&gt;<br /> &lt;div id=&quot;zergnet-widget-13771&quot; style=&quot;text-align:center;margin-left:-7px;&quot;&gt;&lt;/div&gt;<br /> &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;(function() {<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var zergnet = document.createElement('script');<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zergnet.type = 'text/javascript'; zergnet.async = true;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zergnet.src = 'http://www.zergnet.com/zerg.js?id=13771';<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var znscr = document.getElementsByTagName('script')[0];<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;znscr.parentNode.insertBefore(zergnet, znscr);<br />&nbsp;&nbsp;&nbsp;&nbsp;})();<br /> &lt;/script&gt;<br /> &lt;/section&gt;<br /></td>
+	<td>tab2</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>&lt;section class=&quot;blogroll main_content_thumb_title_roll clearfix size4&quot;&gt;&lt;h3&gt;Best of the Web&lt;/h3&gt;<br /> &lt;div id=&quot;zergnet-widget-13510&quot; style=&quot;text-align:center;margin-left:-7px;&quot;&gt;&lt;/div&gt;<br /> &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;(function() {<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var zergnet = document.createElement('script');<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zergnet.type = 'text/javascript'; zergnet.async = true;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zergnet.src = 'http://www.zergnet.com/zerg.js?id=13510';<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var znscr = document.getElementsByTagName('script')[0];<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;znscr.parentNode.insertBefore(zergnet, znscr);<br />&nbsp;&nbsp;&nbsp;&nbsp;})();<br /> &lt;/script&gt;<br /> &lt;/section&gt;<br /></td>
+	<td>tab3</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td><br /><br />&lt;script type=&quot;text/javascript&quot;&gt;<br />&nbsp;&nbsp;window._taboola = window._taboola || [];<br />&nbsp;&nbsp;_taboola.push({flush: true});<br />&lt;/script&gt;</td>
+	<td>JS</td>
+</tr>
+<tr>
+	<td>while</td>
+	<td>(${x}&lt;167)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeCellValue</td>
+	<td>base</td>
+	<td>${x},5</td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>Starting Taboola Fix for ${base}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>/wp-admin/</td>
+	<td>site</td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>${base}${site}</td>
+	<td>admin</td>
+</tr>
+<tr>
+	<td>storeEval</td>
+	<td>new Array('rock','classic-hits','indie-alternative','sports')</td>
+	<td>ROCK</td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>${admin}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeLocation</td>
+	<td>currentURL</td>
+	<td></td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>++++ Beginning test at ${base}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['currentURL']==storedVars['admin']</td>
+	<td>ADMIN</td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>LOGIN</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_login</td>
+	<td>jdbecht</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_pass</td>
+	<td>Bighead123</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=login_form_submit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>ADMIN</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Townsquare</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeSelectedValues</td>
+	<td>id=station-info-genre</td>
+	<td>sitetype</td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>${base} is a ${sitetype}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>${admin}widgets.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[3]/div[3]/div/div/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[3]/div[3]/div/div[4]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div[2]/div[3]/div/div/a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeText</td>
+	<td>//div[2]/div[3]/div[2]/form/div/textarea</td>
+	<td>baddata</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['rock1']</td>
+	<td>ROCKSTATION</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['rock2']</td>
+	<td>ROCKSTATION</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['rock3']</td>
+	<td>ROCKSTATION</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['rock4']</td>
+	<td>ROCKSTATION</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['other1']</td>
+	<td>OTHER</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['other2']</td>
+	<td>OTHER</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['other3']</td>
+	<td>OTHER</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['other4']</td>
+	<td>OTHER</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['other5']</td>
+	<td>OTHER</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['other6']</td>
+	<td>OTHER</td>
+</tr>
+<tr>
+	<td>gotoIf</td>
+	<td>storedVars['sitetype']==storedVars['news1']</td>
+	<td>NEWS</td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>${base} failed because it did not find a site type.&nbsp;&nbsp;site type found was ${sitetype}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>gotolabel</td>
+	<td>FINISHED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>OTHER</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>//div[2]/div[3]/div[2]/form/div/textarea</td>
+	<td>${RECOMMENDED}<br /><br />${tab3}<br /><br />${JS}</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div[2]/div[3]/div[2]/form/div[2]/div[2]/input</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>30000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>*********************${base} was finished succesfully**********************</td>
+	<td></td>
+</tr>
+<tr>
+	<td>gotolabel</td>
+	<td>Complete</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>ROCKSTATION</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>//div[2]/div[3]/div[2]/form/div/textarea</td>
+	<td>${RECOMMENDED}<br /><br />${tab1}<br /><br />${JS}</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div[2]/div[3]/div[2]/form/div[2]/div[2]/input</td>
+	<td></td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>*********************${base} was finished succesfully**********************</td>
+	<td></td>
+</tr>
+<tr>
+	<td>gotolabel</td>
+	<td>Complete</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>NEWS</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>//div[2]/div[3]/div[2]/form/div/textarea</td>
+	<td>${RECOMMENDED}<br /><br />${tab2}<br /><br />${JS}</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div[2]/div[3]/div[2]/form/div[2]/div[2]/input</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>30000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>*********************${base} was finished succesfully**********************</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>Complete</td>
+	<td></td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>${sitetype}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div[2]/div[3]/div[2]/form/div[2]/div[2]/input</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[4]/div[2]/div[3]/div[2]/form/div[2]/div[2]/input</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>30000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>*********************${base} was finished succesfully**********************</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>5000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>Complete</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>FINISHED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeEval</td>
+	<td>storedVars['x']=${x}+1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>endWhile</td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeEval</td>
+	<td>alert('This is complete')</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
