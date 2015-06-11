@@ -58,32 +58,37 @@
 </tr>
 <tr>
 	<td>pause</td>
-	<td>30000</td>
+	<td>10000</td>
 	<td></td>
 </tr>
 <tr>
-	<td>storeElementHeight</td>
-	<td>class=textwidget</td>
-	<td>height</td>
+	<td>storeElementPresent</td>
+	<td>id=fancybox-close</td>
+	<td>overlaypresent</td>
 </tr>
 <tr>
 	<td>gotoIf</td>
-	<td>storedVars['height']!=731</td>
-	<td>Missing</td>
-</tr>
-<tr>
-	<td>echo</td>
-	<td>${base} is good to go</td>
-	<td></td>
+	<td>storedVars['overlaypresent]!=true</td>
+	<td>CloseOverlay</td>
 </tr>
 <tr>
 	<td>gotolabel</td>
-	<td>Complete</td>
+	<td>Screenshot</td>
 	<td></td>
 </tr>
 <tr>
 	<td>label</td>
-	<td>Missing</td>
+	<td>CloseOverlay</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=fancybox-close</td>
+	<td></td>
+</tr>
+<tr>
+	<td>label</td>
+	<td>Screenshot</td>
 	<td></td>
 </tr>
 <tr>
